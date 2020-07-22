@@ -19,7 +19,6 @@
 
 Избранные результаты сохранены в [архиве](https://drive.google.com/file/d/1divZjkTM1szwj8V0STtf61IMKou3_kfN/view?usp=sharing) и видео на [youtube](https://www.youtube.com/watch?v=U890614MclI). 
 
-
-[Open In Colab](https://colab.research.google.com/drive/12pHyOvgJjLlnJW2vZP8S54uknGX4KU7E
+Ноутбук можно посмотреть в колабе [Open In Colab](https://colab.research.google.com/drive/12pHyOvgJjLlnJW2vZP8S54uknGX4KU7E)
 
 
